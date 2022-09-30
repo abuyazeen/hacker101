@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Mobile Hacking Crash Course
+title: Mobile Hacking Crash Coursee
 video_src: https://www.youtube-nocookie.com/embed/hKF89TXttnw
-next_url: android/quickstart
+next_urll: android/quickstart
 ---
 
 In this session -- the first in a series of three on mobile hacking -- we begin with some fundamentals of mobile apps and discuss testing methodology.
