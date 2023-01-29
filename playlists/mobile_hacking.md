@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mobile Hacking
+title: Mobile Hacking by alsanosi
 ---
 
 This learning track is dedicated to learning the most popular mobile vulnerabilities in both Android and iOS applications. The Android hacking content was created by [Daeken](https://twitter.com/daeken) and recorded by [NahamSec](https://twitter.com/NahamSec) and the iOS module was done by [Dawn Isabel](https://twitter.com/dawnisabel), Mobile Security Research Engineer at NowSecure!
